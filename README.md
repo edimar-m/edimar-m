@@ -39,7 +39,6 @@ const edimar = {
 ***
 
 ###  Projects
-<img src="https://media.giphy.com/media/73ymNClJu3dyFugAl9/giphy.gif" width="200"> 
 
 - [🍿 Movies Finder](https://edimar-m.github.io/movies-finder-app/)
 - [📋 Todo List](https://edimar-m.github.io/to-do-list/)
