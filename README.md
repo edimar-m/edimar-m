@@ -1,39 +1,43 @@
-<h1 align="center">Hi, I'm Edimar Morles</h1>
-<h3 align="center">A passionate frontend developer Jr 💻  who likes to work with JavaScript (React.Js, Next.Js) Learning Node.JS </h3>
-
-<p align="center">
-  <img width="250" src= "https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif">
-</p>
-. 
-<p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/MorlesEdimar" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/edimar-morles/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:edimar.morles@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Edimar Morles <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="center">A passionate frontend developer Jr 💻  who likes to work with JavaScript (React.Js, Next.Js)</h3>
 
 
-- 🌱 I’m currently learning **Next Js and Node JS**
+<img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
+<p><em>Frontend Developer graduated from <a href="https://adaitw.org/">ADA ITW</a></em></p>
+
+
+[![Twitter: MorlesEdimar](https://img.shields.io/twitter/follow/MorlesEdimar?style=social)](https://twitter.com/MorlesEdimar)
+[![Linkedin: edimar-morles](https://img.shields.io/badge/-edimarmorles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edimar-morles/)](https://www.linkedin.com/in/edimar-morles/)
+[![GitHub edimar-m](https://img.shields.io/github/followers/edimar-m?label=follow&style=social)](https://github.com/edimar-m)</a> <a href="mailto:edimar.morles@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-edimar.morles@gmail.com- blue?style=flat&logo=gmail"></a>
+
+
+
+***
+
+- 👷🏽‍♂️ I’m currently setting up my new portfolio﹣ will be ready soon...
 - 🔭 I’m currently working on Verte Reir Federal, ONG's web page.
-
+- 🌱 I’m currently learning more about **Next Js and Node JS**
 - 📄 Know about my experiences [here!](https://edimar-m.github.io/Portafolio-Edimar/)
+
+***
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const edimar = {
+  pronouns: "she" | "her",
   knowledge: ["Frontend Web Development"],
-  frontend: [React, Javascript, Sass, Bootstrap, CSS, HTML],
+  code: [Javascript, HTML, CSS ],
+  tools: [React, Node, Styled-Components, Sass, Bootstrap, Bulma, Materialize],
+  techCommunities: {
+                        voluntary: "ADA ITW PPI",
+                      },
+ challenge: "I am doing the React Alkemy challenge"
  };
   ```
 ***
 
-### ➡ 
+###  Projects
+<img src="https://media.giphy.com/media/73ymNClJu3dyFugAl9/giphy.gif" width="200"> 
 
 - [🍿 Movies Finder](https://edimar-m.github.io/movies-finder-app/)
 - [📋 Todo List](https://edimar-m.github.io/to-do-list/)
@@ -51,6 +55,8 @@ const edimar = {
 * Books
 * History
 * Science
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--
 **edimar-m/edimar-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
