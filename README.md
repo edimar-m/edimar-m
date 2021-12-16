@@ -30,6 +30,8 @@ const edimar = {
   tools: [React, Node, Styled-Components, Sass, Bootstrap, Bulma, Materialize],
   techCommunities: {
                         voluntary: "ADA ITW PPI",
+                        member: "Frontend Café"
+                        
                       },
  challenge: "I am doing the React Alkemy challenge"
  };
